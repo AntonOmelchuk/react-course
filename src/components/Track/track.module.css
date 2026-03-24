@@ -1,0 +1,16 @@
+.main {
+  border: 1px solid transparent;
+  border-radius: 12px;
+  margin: 24px;
+  padding: 12px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.selected {
+  border-color: white;
+}
